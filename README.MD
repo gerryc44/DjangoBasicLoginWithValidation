@@ -14,7 +14,7 @@ https://www.digitalocean.com/community/tutorials/how-to-install-mysql-on-ubuntu-
 #### Setting up Django w/ Mysql: (If links are outdated, Google for similar)
 https://www.digitalocean.com/community/tutorials/how-to-create-a-django-app-and-connect-it-to-a-database
 
-#### Import steps are:
+#### Important steps are:
 Get mysql setup and create a user or use root.
 Create a database and table to store users.
 Get this information into your /etc/mysql/my.conf or what is defined in settings.py in Databases area.
